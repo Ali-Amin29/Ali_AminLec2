@@ -1,5 +1,4 @@
 MY TASK
-<Names of my branches are ali and amin >
 1- Telling U how ti remove branch loacally and remotely ??
 ans >>>
 loaclly -> git branch -d ali
